@@ -36,6 +36,15 @@ This repository contains implementations of various Design Patterns in Java.
 
 ## 1. Creational
 ### 1a. Singleton
+> The **Singleton** pattern guarantees that a class has only one instance and provides a global access point to it. This is used to control access to a shared resource, like a single database connection or configuration file.
+```sh
+# enter directo
+cd creational/singleton
+# compile
+javac LoggerSingletonTest.java
+# run
+java LoggerSingletonTest
+```
 ### 1b. Factory
 ### 1c. Builder
 ### 1d. Prototype
