@@ -46,7 +46,7 @@ javac LoggerSingletonTest.java
 java LoggerSingletonTest
 ```
 ### 1b. Factory
-> cd creational/factory_method 
+> The Factory Method defines an interface for creating an object, but lets subclasses decide which class to instantiate. This allows a class to defer instantiation to its subclasses, promoting loose coupling.
 ```sh
 # enter directory
 cd creational/factory_method 
