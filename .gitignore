@@ -1,3 +1,12 @@
 creational/singleton/log.txt
 creational/singleton/LoggerSingleton.class
 creational/singleton/LoggerSingletonTest.class
+
+
+creational/factory_method/Notification.class
+creational/factory_method/EmailFactories.class
+creational/factory_method/SMSFactories.class
+creational/factory_method/EmailNotification.class
+creational/factory_method/SMSNotification.class
+creational/factory_method/Main.class
+creational/factory_method/NotificationFactory.class
