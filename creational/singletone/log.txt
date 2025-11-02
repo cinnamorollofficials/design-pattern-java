@@ -1,6 +1,0 @@
-[2025-11-02T20:08:52.406706]Application started
-[2025-11-02T20:08:52.409742]User logged in
-[2025-11-02T20:09:05.626758]Application started
-[2025-11-02T20:09:05.629377]User logged in
-[2025-11-02T20:09:11.217995] Application started
-[2025-11-02T20:09:11.220609] User logged in
