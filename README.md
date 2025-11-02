@@ -56,6 +56,15 @@ javac Main.java
 java Main 
 ```
 ### 1c. Builder
+> The **Builder** pattern separates the construction of a complex object from its representation, allowing the same construction process to create different representations. It lets you build complex objects step-by-step, making the creation process more manageable.
+```sh
+# enter directory
+cd creational/builder 
+# compile
+javac Main.java
+# run
+java Main 
+```
 ### 1d. Prototype
 ### 1e. Abstract Factory
 

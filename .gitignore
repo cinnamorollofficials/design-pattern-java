@@ -10,3 +10,8 @@ creational/factory_method/EmailNotification.class
 creational/factory_method/SMSNotification.class
 creational/factory_method/Main.class
 creational/factory_method/NotificationFactory.class
+
+
+creational/builder/User.class
+creational/builder/User$Builder.class
+creational/builder/Main.class
