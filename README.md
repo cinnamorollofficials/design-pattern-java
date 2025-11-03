@@ -76,6 +76,15 @@ javac Main.java
 java Main 
 ```
 ### 1e. Abstract Factory
+> The Abstract Factory pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes. This allows you to produce different variations (e.g., UI elements for Windows, macOS, or Linux) using the same client code.
+```sh
+# enter directory
+cd creational/abstract_factory 
+# compile
+javac *.java
+# run
+java Main solana
+```
 
 
 ## 2. Structural
