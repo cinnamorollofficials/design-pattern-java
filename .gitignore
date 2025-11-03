@@ -20,7 +20,6 @@ creational/prototype/User.class
 creational/prototype/Prototype.class
 creational/prototype/Main.class
 
-
 creational/abstract_factory/Interface.class
 creational/abstract_factory/SolNodeProvider.class
 creational/abstract_factory/EvmNodeProvider.class
