@@ -89,6 +89,15 @@ java Main solana
 
 ## 2. Structural
 ### 2a. Adapter
+> The Adapter pattern acts as a bridge between two incompatible interfaces, allowing them to work together. It wraps an existing class (the adaptee) with a new interface (the adapter) that the client code can understand.
+```sh
+# enter directory
+cd creational/adaptor 
+# compile
+javac *.java
+# run
+java Main solana
+```
 ### 2b. Bridge
 ### 2c. Composite
 ### 2d. Decorator

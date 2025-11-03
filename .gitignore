@@ -11,7 +11,6 @@ creational/factory_method/SMSNotification.class
 creational/factory_method/Main.class
 creational/factory_method/NotificationFactory.class
 
-
 creational/builder/User.class
 creational/builder/User$Builder.class
 creational/builder/Main.class
@@ -30,3 +29,9 @@ creational/abstract_factory/WalletProvider.class
 creational/abstract_factory/SolanaProviderFactory.class
 creational/abstract_factory/EvmProviderFactory.class
 creational/abstract_factory/Main.class
+
+structural/adapter/EvmLikeNode.class
+structural/adapter/EvmRpcClient.class
+structural/adapter/SolanaSdk.class
+structural/adapter/SolanaToEvmAdapter.class
+structural/adapter/Main.class
