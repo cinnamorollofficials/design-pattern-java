@@ -66,6 +66,15 @@ javac Main.java
 java Main 
 ```
 ### 1d. Prototype
+> The Prototype pattern lets you create new objects by copying an existing object (a "prototype") rather than creating one from scratch. This is used to avoid the high cost of standard creation and to easily produce variations of an object.
+```sh
+# enter directory
+cd creational/prototype 
+# compile
+javac Main.java
+# run
+java Main 
+```
 ### 1e. Abstract Factory
 
 

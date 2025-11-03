@@ -15,3 +15,7 @@ creational/factory_method/NotificationFactory.class
 creational/builder/User.class
 creational/builder/User$Builder.class
 creational/builder/Main.class
+
+creational/prototype/User.class
+creational/prototype/Prototype.class
+creational/prototype/Main.class
