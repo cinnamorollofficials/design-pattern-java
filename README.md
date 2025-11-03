@@ -92,14 +92,42 @@ java Main solana
 > The Adapter pattern acts as a bridge between two incompatible interfaces, allowing them to work together. It wraps an existing class (the adaptee) with a new interface (the adapter) that the client code can understand.
 ```sh
 # enter directory
-cd creational/adaptor 
+cd structural/adaptor 
 # compile
 javac *.java
 # run
 java Main solana
 ```
 ### 2b. Bridge
+> The Bridge pattern decouples an abstraction from its implementation, allowing the two to vary independently. This is useful when you have multiple dimensions of variation (e.g., different shapes and different rendering methods) and want to avoid a class explosion.
+```sh
+# enter directory
+cd structural/bridge 
+# compile
+javac *.java
+# run
+# Native transfer di EVM (amount dalam wei - demo):
+java Main evm native 0xFrom 0xTo 100000000000000000 priv_demo_key
+
+# Token transfer di EVM (token = ERC-20 address):
+java Main evm token 0xFrom 0xTo 100000000000000000 0xTokenAddress
+
+# Native transfer di Solana (amount dalam lamports - demo):
+java Main solana native FromSoL ToSoL 200000000 priv_demo_key
+
+# Token transfer di Solana (token = SPL mint):
+java Main solana token FromSoL ToSoL 500000000 SoL_Mint_ABC
+```
 ### 2c. Composite
+> The **Composite** pattern allows you to compose objects into tree structures to represent part-whole hierarchies. This lets clients treat individual objects (leaves) and compositions of objects (composites) uniformly through a shared interface.
+```sh
+# enter directory
+cd structural/composite 
+# compile
+javac *.java
+# run
+java Main
+```
 ### 2d. Decorator
 ### 2e. Facade
 ### 2f. Flyweight
