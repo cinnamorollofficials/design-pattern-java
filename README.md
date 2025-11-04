@@ -129,6 +129,15 @@ javac *.java
 java Main
 ```
 ### 2d. Decorator
+> The Decorator pattern dynamically attaches new behaviors or responsibilities to an object without altering its code. It wraps the original object, allowing you to add functionality at runtime, layer by layer, as a flexible alternative to subclassing.
+```sh
+# enter directory
+cd structural/decorator 
+# compile
+javac *.java
+# run
+java Main
+```
 ### 2e. Facade
 ### 2f. Flyweight
 ### 2g. Proxy

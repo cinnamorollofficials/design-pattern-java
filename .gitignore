@@ -45,8 +45,15 @@ structural/bridge/NodeImplementor.class
 structural/bridge/TokenTransfer.class
 structural/bridge/TransactionBridge.class
 
-
 structural/composite/Main.class
 structural/composite/PortfolioComponent.class
 structural/composite/TokenHolding.class
 structural/composite/WalletComposite.class
+
+
+structural/decorator/EvmNode.class
+structural/decorator/LoggingDecorator.class
+structural/decorator/Main.class
+structural/decorator/Node.class
+structural/decorator/NodeDEcorator.class
+structural/decorator/RetryDecorator.class
