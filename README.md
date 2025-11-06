@@ -129,7 +129,7 @@ javac *.java
 java Main
 ```
 ### 2d. Decorator
-> The Decorator pattern dynamically attaches new behaviors or responsibilities to an object without altering its code. It wraps the original object, allowing you to add functionality at runtime, layer by layer, as a flexible alternative to subclassing.
+> The **Decorator** pattern dynamically attaches new behaviors or responsibilities to an object without altering its code. It wraps the original object, allowing you to add functionality at runtime, layer by layer, as a flexible alternative to subclassing.
 ```sh
 # enter directory
 cd structural/decorator 
@@ -139,6 +139,15 @@ javac *.java
 java Main
 ```
 ### 2e. Facade
+> The **Facade** pattern provides a simplified, unified interface to a complex subsystem of classes, libraries, or frameworks. It hides the system's complexity and makes it easier to use by providing a single, high-level entry point.
+```sh
+# enter directory
+cd structural/facade 
+# compile
+javac *.java
+# run
+java Main
+```
 ### 2f. Flyweight
 ### 2g. Proxy
 

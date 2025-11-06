@@ -57,3 +57,10 @@ structural/decorator/Main.class
 structural/decorator/Node.class
 structural/decorator/NodeDEcorator.class
 structural/decorator/RetryDecorator.class
+
+
+structural/facade/Blockchainfacade.class 
+structural/facade/EvmNode.class 
+structural/facade/Main.class 
+structural/facade/Node.class 
+structural/facade/SolanaNode.class
