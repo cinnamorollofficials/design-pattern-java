@@ -99,3 +99,9 @@ behavioral/interpreter/OrExpression.class
 behavioral/interpreter/TerminalExpression.class
 behavioral/interpreter/Context.class
 behavioral/interpreter/Parser.class
+
+behavioral/iterator/HdWallet.class
+behavioral/iterator/HdWalletIterator.class
+behavioral/iterator/Iterator.class
+behavioral/iterator/Main.class
+behavioral/iterator/WalletCollection.class

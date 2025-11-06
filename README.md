@@ -202,6 +202,15 @@ javac *.java
 java Main
 ```
 ### 3d. Iterator
+> The Iterator pattern provides a standard way to traverse the elements of a collection sequentially without exposing its underlying representation. This allows you to browse any collection (like a list, tree, or graph) using a uniform interface.
+```sh
+# enter directory
+cd behavioral/iterator
+# compile
+javac *.java
+# run
+java Main
+```
 ### 3e. Mediator
 ### 3f. Memento
 ### 3g. Observer
