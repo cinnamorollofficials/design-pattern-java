@@ -83,3 +83,10 @@ behavioral/chain-of-responsibility/Handler.class
 behavioral/chain-of-responsibility/Main.class
 behavioral/chain-of-responsibility/SignatureValidator.class
 behavioral/chain-of-responsibility/TxRequest.class
+
+behavioral/command/BlockchainService.class
+behavioral/command/Command.class
+behavioral/command/Invoker.class
+behavioral/command/Main.class
+behavioral/command/SendNativeCommand.class
+behavioral/command/SendTokenCommand.class

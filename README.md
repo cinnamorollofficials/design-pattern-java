@@ -182,6 +182,15 @@ javac *.java
 java Main
 ```
 ### 3b. Command
+> The Command pattern turns a request into a stand-alone object (a "command") that contains all information about the request. This allows you to parameterize methods with different requests, queue or log requests, and support undoable operations.
+```sh
+# enter directory
+cd behavioral/command
+# compile
+javac *.java
+# run
+java Main
+```
 ### 3c. Interpreter
 ### 3d. Iterator
 ### 3e. Mediator
