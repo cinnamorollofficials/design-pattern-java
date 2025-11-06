@@ -64,3 +64,8 @@ structural/facade/EvmNode.class
 structural/facade/Main.class 
 structural/facade/Node.class 
 structural/facade/SolanaNode.class
+
+structural/flyweight/Main.class
+structural/flyweight/TokenFactory.class
+structural/flyweight/TokenMetadata.class
+structural/flyweight/WalletBalance.class

@@ -149,6 +149,15 @@ javac *.java
 java Main
 ```
 ### 2f. Flyweight
+> The Flyweight pattern minimizes memory usage by sharing as much data as possible with other similar objects. It is used when you need to create a vast number of objects that share common (intrinsic) state, while storing their unique (extrinsic) state externally.
+```sh
+# enter directory
+cd structural/flyweight 
+# compile
+javac *.java
+# run
+java Main
+```
 ### 2g. Proxy
 
 
