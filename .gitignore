@@ -120,4 +120,10 @@ behavioral/memento/Wallet.class
 behavioral/memento/WalletHistory.class
 behavioral/memento/WalletMemento.class
 
-
+behavioral/observer/BlockchainNode.class
+behavioral/observer/Main.class
+behavioral/observer/Observer.class
+behavioral/observer/Subject.class
+behavioral/observer/TxLoggerObserver.class
+behavioral/observer/WalletUIObserver.class
+behavioral/observer/NotificationObserver.class

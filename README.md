@@ -232,6 +232,15 @@ javac *.java
 java Main
 ```
 ### 3g. Observer
+> The Observer pattern defines a one-to-many dependency where an object (the "subject") notifies a list of dependent objects ("observers") of any state changes. This allows observers to react to changes automatically without the subject needing to know who they are.
+```sh
+# enter directory
+cd behavioral/observer
+# compile
+javac *.java
+# run
+java Main
+```
 ### 3h. State
 ### 3i. Strategy
 ### 3j. Template Method
