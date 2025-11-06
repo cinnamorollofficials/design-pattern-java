@@ -172,6 +172,15 @@ java Main
 
 ## 3. Behavioral
 ### 3a. Chain of Responsibility
+> The Chain of Responsibility pattern passes a request along a chain of handlers, allowing multiple objects to process it. Each handler decides either to process the request or to pass it to the next handler in the chain, decoupling the sender from the receiver.
+```sh
+# enter directory
+cd behavioral/chain-of-responsibility
+# compile
+javac *.java
+# run
+java Main
+```
 ### 3b. Command
 ### 3c. Interpreter
 ### 3d. Iterator
