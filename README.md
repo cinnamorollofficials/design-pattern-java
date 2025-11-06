@@ -192,6 +192,15 @@ javac *.java
 java Main
 ```
 ### 3c. Interpreter
+> The Interpreter pattern defines a grammatical representation for a language and provides an interpreter to execute that grammar. This is used to build components, like query parsers or scripting engines, that can process and act on sentences in that language.
+```sh
+# enter directory
+cd behavioral/interpreter
+# compile
+javac *.java
+# run
+java Main
+```
 ### 3d. Iterator
 ### 3e. Mediator
 ### 3f. Memento

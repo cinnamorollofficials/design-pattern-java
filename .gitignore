@@ -90,3 +90,12 @@ behavioral/command/Invoker.class
 behavioral/command/Main.class
 behavioral/command/SendNativeCommand.class
 behavioral/command/SendTokenCommand.class
+
+behavioral/interpreter/Main.class
+behavioral/interpreter/BalanceExpression.class
+behavioral/interpreter/AndExpression.class
+behavioral/interpreter/Expression.class
+behavioral/interpreter/OrExpression.class
+behavioral/interpreter/TerminalExpression.class
+behavioral/interpreter/Context.class
+behavioral/interpreter/Parser.class
