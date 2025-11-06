@@ -105,3 +105,12 @@ behavioral/iterator/HdWalletIterator.class
 behavioral/iterator/Iterator.class
 behavioral/iterator/Main.class
 behavioral/iterator/WalletCollection.class
+
+behavioral/mediator/BalanceComponent.class 
+behavioral/mediator/Componet.class 
+behavioral/mediator/Main.class 
+behavioral/mediator/Mediator.class 
+behavioral/mediator/NotificationComponent.class 
+behavioral/mediator/PriceFeedComponent.class 
+behavioral/mediator/TxHistoryComponent.class 
+behavioral/mediator/WalletMediator.class 

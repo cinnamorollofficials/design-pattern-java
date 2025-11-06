@@ -212,6 +212,15 @@ javac *.java
 java Main
 ```
 ### 3e. Mediator
+> The Mediator pattern reduces complex dependencies between objects by introducing a central "mediator" object that handles all communication. This promotes loose coupling by forcing objects to interact only through the mediator, rather than directly with each other.
+```sh
+# enter directory
+cd behavioral/mediator
+# compile
+javac *.java
+# run
+java Main
+```
 ### 3f. Memento
 ### 3g. Observer
 ### 3h. State
