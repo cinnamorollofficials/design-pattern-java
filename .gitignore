@@ -76,10 +76,10 @@ structural/proxy/ProxyNode.class
 structural/proxy/RealEvmNode.class 
 
 
-behaviour/chain-of-responsibility/AntiFraudValidator.class
-behaviour/chain-of-responsibility/BalanceValidator.class
-behaviour/chain-of-responsibility/GasValidator.class
-behaviour/chain-of-responsibility/Main.class
-behaviour/chain-of-responsibility/Main.class
-behaviour/chain-of-responsibility/Main.class
-behaviour/chain-of-responsibility/Main.class
+behavioral/chain-of-responsibility/AntiFraudValidator.class
+behavioral/chain-of-responsibility/BalanceValidator.class
+behavioral/chain-of-responsibility/GasValidator.class
+behavioral/chain-of-responsibility/Handler.class
+behavioral/chain-of-responsibility/Main.class
+behavioral/chain-of-responsibility/SignatureValidator.class
+behavioral/chain-of-responsibility/TxRequest.class
