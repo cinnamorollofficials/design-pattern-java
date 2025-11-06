@@ -159,6 +159,15 @@ javac *.java
 java Main
 ```
 ### 2g. Proxy
+> The Proxy pattern provides a surrogate or placeholder for another object to control access to it. This is used to manage the original object's lifecycle, add security, enable lazy initialization, or handle remote access transparently.
+```sh
+# enter directory
+cd structural/proxy 
+# compile
+javac *.java
+# run
+java Main
+```
 
 
 ## 3. Behavioral

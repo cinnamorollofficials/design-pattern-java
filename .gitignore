@@ -69,3 +69,8 @@ structural/flyweight/Main.class
 structural/flyweight/TokenFactory.class
 structural/flyweight/TokenMetadata.class
 structural/flyweight/WalletBalance.class
+
+structural/proxy/Main.class 
+structural/proxy/Node.class 
+structural/proxy/ProxyNode.class 
+structural/proxy/RealEvmNode.class 
