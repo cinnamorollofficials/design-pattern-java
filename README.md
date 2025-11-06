@@ -222,6 +222,15 @@ javac *.java
 java Main
 ```
 ### 3f. Memento
+> The Memento pattern captures and externalizes an object's internal state without violating encapsulation, allowing the object to be restored to this state later. This is commonly used to implement undo/redo functionality or to create save points in an application.
+```sh
+# enter directory
+cd behavioral/memento
+# compile
+javac *.java
+# run
+java Main
+```
 ### 3g. Observer
 ### 3h. State
 ### 3i. Strategy

@@ -114,3 +114,10 @@ behavioral/mediator/NotificationComponent.class
 behavioral/mediator/PriceFeedComponent.class 
 behavioral/mediator/TxHistoryComponent.class 
 behavioral/mediator/WalletMediator.class 
+
+behavioral/memento/Main.class
+behavioral/memento/Wallet.class
+behavioral/memento/WalletHistory.class
+behavioral/memento/WalletMemento.class
+
+
