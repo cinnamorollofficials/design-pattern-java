@@ -262,4 +262,13 @@ javac *.java
 java Main
 ```
 ### 3j. Template Method
+> The Template Method pattern defines the skeleton of an algorithm in a superclass but lets subclasses override specific steps. This allows subclasses to redefine parts of the algorithm without changing its overall structure.
+```sh
+# enter directory
+cd behavioral/template
+# compile
+javac *.java
+# run
+java Main
+```
 ### 3k. Visitor

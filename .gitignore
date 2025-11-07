@@ -141,3 +141,8 @@ behavioral/strategy/FastGasStrategy.class
 behavioral/strategy/GasStrategy.class
 behavioral/strategy/NormalGasStrategy.class
 behavioral/strategy/TxSender.class
+
+behavioral/template/EvmTransaction.class
+behavioral/template/SolanaTransaction.class
+behavioral/template/TransactionTemplate.class
+behavioral/template/Main.class
