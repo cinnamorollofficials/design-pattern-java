@@ -127,3 +127,11 @@ behavioral/observer/Subject.class
 behavioral/observer/TxLoggerObserver.class
 behavioral/observer/WalletUIObserver.class
 behavioral/observer/NotificationObserver.class
+
+
+behavioral/state/LockedState.class 
+behavioral/state/Main.class 
+behavioral/state/SyncingState.class 
+behavioral/state/UnlockedState.class 
+behavioral/state/WalletContext.class 
+behavioral/state/WalletState.class 

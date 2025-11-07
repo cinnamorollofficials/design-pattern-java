@@ -242,6 +242,15 @@ javac *.java
 java Main
 ```
 ### 3h. State
+> The State pattern allows an object to alter its behavior when its internal state changes, making the object appear to change its class. It encapsulates state-specific behaviors into separate "state" objects, cleaning up complex conditional logic.
+```sh
+# enter directory
+cd behavioral/state
+# compile
+javac *.java
+# run
+java Main
+```
 ### 3i. Strategy
 ### 3j. Template Method
 ### 3k. Visitor
