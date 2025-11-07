@@ -252,5 +252,14 @@ javac *.java
 java Main
 ```
 ### 3i. Strategy
+> The Strategy pattern defines a family of interchangeable algorithms and encapsulates each one in its own class. This allows the client code to select and swap the "strategy" (algorithm) it uses at runtime, independent of the object that uses it.
+```sh
+# enter directory
+cd behavioral/strategy
+# compile
+javac *.java
+# run
+java Main
+```
 ### 3j. Template Method
 ### 3k. Visitor

@@ -135,3 +135,9 @@ behavioral/state/SyncingState.class
 behavioral/state/UnlockedState.class 
 behavioral/state/WalletContext.class 
 behavioral/state/WalletState.class 
+
+behavioral/strategy/CheapGasStrategy.class
+behavioral/strategy/FastGasStrategy.class
+behavioral/strategy/GasStrategy.class
+behavioral/strategy/NormalGasStrategy.class
+behavioral/strategy/TxSender.class
