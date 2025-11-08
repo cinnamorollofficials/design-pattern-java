@@ -272,3 +272,12 @@ javac *.java
 java Main
 ```
 ### 3k. Visitor
+> The Visitor pattern lets you add new operations to a complex object structure (like a tree) without modifying the classes of the objects themselves. It separates the algorithm from the objects it operates on, allowing new behaviors to be added by creating new visitor classes.
+```sh
+# enter directory
+cd behavioral/visitor
+# compile
+javac *.java
+# run
+java Main
+```

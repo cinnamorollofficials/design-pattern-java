@@ -146,3 +146,14 @@ behavioral/template/EvmTransaction.class
 behavioral/template/SolanaTransaction.class
 behavioral/template/TransactionTemplate.class
 behavioral/template/Main.class
+
+behavioral/visitor/Block.class
+behavioral/visitor/ContractCallTx.class
+behavioral/visitor/FeeEstimatorVisitor.class
+behavioral/visitor/Main.class
+behavioral/visitor/PrettyPrintVisitor.class
+behavioral/visitor/RiskVisitor.class
+behavioral/visitor/StakeTx.class
+behavioral/visitor/TransferTx.class
+behavioral/visitor/TxElement.class
+behavioral/visitor/TxVisitor.class
