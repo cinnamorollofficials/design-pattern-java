@@ -1,3 +1,5 @@
+.DS_Store
+
 creational/singleton/log.txt
 creational/singleton/LoggerSingleton.class
 creational/singleton/LoggerSingletonTest.class
